@@ -31,27 +31,7 @@ A responsive full-stack Expense Management System built with Python, Flask, SQLA
 - Jinja2
 - Chart.js
 
-## Screenshots
 
-### Dashboard
-
-![Expense Management Dashboard](screenshots/Dashboard.png)
-
-### Expenses
-
-![Expenses Page](screenshots/Expenses.png)
-
-### Filters
-
-![Filters Page](screenshots/Filters.png)
-
-### Reports
-
-![Reports Page](screenshots/Reports.png)
-
-### Add Expense
-
-![Add Expense Page](screenshots/Add%20Expense.png)
 
 ## Project Structure
 
